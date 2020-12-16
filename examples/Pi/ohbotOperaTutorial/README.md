@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=LoCSa6Hx0VE
 ## Author
 
 Emmanuel Ferragne  
-http://w3.univ-paris-diderot.fr/EtudesAnglophones/pg.php?bc=CHVEENG&page=FICHECHERC&g=sm&uid=eferragn
+https://www.emmanuelferragne.com/
 
 ## Prerequisites
 This presupposes that you already know how to run simple Python scripts for the Ohbot. 
